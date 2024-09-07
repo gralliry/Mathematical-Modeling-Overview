@@ -1,0 +1,15 @@
+._*
+*.pyc
+.DS_Store
+__pycache__/
+
+
+.vscode/
+.idea/
+
+venv/
+test/
+temp/
+
+private/
+
